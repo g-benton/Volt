@@ -1,0 +1,4 @@
+AMAT
+BRK-B
+DAL
+MCD
