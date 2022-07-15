@@ -1,14 +1,13 @@
 # Volt
-Public Implementation of 
-*Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes* [link] 
-
+Public implementation of 
+*Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes* ([link](https://proceedings.mlr.press/v162/benton22a.html))  
 by [Gregory Benton](https://g-benton.github.io/), [Wesley Maddox](https://wjmaddox.github.io), and [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/).
 
 Please cite our work if you find it useful:
 
 ```
 @inproceedings{benton2022volatility,
-  title={olatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes},
+  title={Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes},
   author={Benton, Gregory and Maddox, Wesley and Wilson, Andrew Gordon Gordon},
   booktitle={International Conference on Machine Learning},
   year={2022},
@@ -20,7 +19,7 @@ Please cite our work if you find it useful:
 
 ## Explanatory Notebook
 
-To see an overview of how to use Volt with synthetically generated code, see the `Example` notebook which walks through how the code is organized step by step.
+To see an overview of how to use Volt with synthetically generated code, see the [example](https://github.com/g-benton/Volt/blob/main/example.ipynb) notebook which walks through how the code is organized step by step.
 
 ## Experiments
 
