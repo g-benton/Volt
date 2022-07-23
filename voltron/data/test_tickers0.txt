@@ -1,0 +1,3 @@
+AMZN
+ADBE
+GOOG
